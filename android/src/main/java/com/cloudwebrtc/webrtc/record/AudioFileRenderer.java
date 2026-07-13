@@ -8,8 +8,8 @@ import android.os.Handler;
 import android.os.HandlerThread;
 import android.util.Log;
 
-import org.webrtc.audio.JavaAudioDeviceModule;
-import org.webrtc.audio.JavaAudioDeviceModule.SamplesReadyCallback;
+import livekit.org.webrtc.audio.JavaAudioDeviceModule;
+import livekit.org.webrtc.audio.JavaAudioDeviceModule.SamplesReadyCallback;
 
 import java.io.IOException;
 import java.nio.ByteBuffer;

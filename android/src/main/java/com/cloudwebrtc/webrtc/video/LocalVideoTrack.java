@@ -4,10 +4,10 @@ import androidx.annotation.Nullable;
 
 import com.cloudwebrtc.webrtc.LocalTrack;
 
-import org.webrtc.VideoFrame;
-import org.webrtc.VideoProcessor;
-import org.webrtc.VideoSink;
-import org.webrtc.VideoTrack;
+import livekit.org.webrtc.VideoFrame;
+import livekit.org.webrtc.VideoProcessor;
+import livekit.org.webrtc.VideoSink;
+import livekit.org.webrtc.VideoTrack;
 
 import java.util.ArrayList;
 import java.util.List;

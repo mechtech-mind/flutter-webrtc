@@ -17,10 +17,10 @@ import com.cloudwebrtc.webrtc.audio.AudioSwitchManager;
 import com.cloudwebrtc.webrtc.utils.AnyThreadSink;
 import com.cloudwebrtc.webrtc.utils.ConstraintsMap;
 
-import org.webrtc.ExternalAudioProcessingFactory;
-import org.webrtc.MediaStreamTrack;
-import org.webrtc.PeerConnectionFactory;
-import org.webrtc.audio.JavaAudioDeviceModule;
+import livekit.org.webrtc.ExternalAudioProcessingFactory;
+import livekit.org.webrtc.MediaStreamTrack;
+import livekit.org.webrtc.PeerConnectionFactory;
+import livekit.org.webrtc.audio.JavaAudioDeviceModule;
 
 import io.flutter.embedding.engine.plugins.FlutterPlugin;
 import io.flutter.embedding.engine.plugins.activity.ActivityAware;

@@ -1,6 +1,6 @@
 package com.cloudwebrtc.webrtc.audio;
 
-import org.webrtc.audio.JavaAudioDeviceModule;
+import livekit.org.webrtc.audio.JavaAudioDeviceModule;
 
 import java.util.ArrayList;
 import java.util.List;

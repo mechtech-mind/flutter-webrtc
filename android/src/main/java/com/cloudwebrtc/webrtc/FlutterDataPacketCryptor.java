@@ -4,11 +4,11 @@ import androidx.annotation.NonNull;
 
 import com.cloudwebrtc.webrtc.utils.ConstraintsMap;
 
-import org.webrtc.DataPacketCryptor;
-import org.webrtc.DataPacketCryptorFactory;
-import org.webrtc.FrameCryptor;
-import org.webrtc.FrameCryptorAlgorithm;
-import org.webrtc.FrameCryptorKeyProvider;
+import livekit.org.webrtc.DataPacketCryptor;
+import livekit.org.webrtc.DataPacketCryptorFactory;
+import livekit.org.webrtc.FrameCryptor;
+import livekit.org.webrtc.FrameCryptorAlgorithm;
+import livekit.org.webrtc.FrameCryptorKeyProvider;
 
 import java.util.HashMap;
 import java.util.Map;

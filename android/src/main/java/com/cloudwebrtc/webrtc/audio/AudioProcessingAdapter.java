@@ -1,6 +1,6 @@
 package com.cloudwebrtc.webrtc.audio;
 
-import org.webrtc.ExternalAudioProcessingFactory;
+import livekit.org.webrtc.ExternalAudioProcessingFactory;
 
 import java.nio.ByteBuffer;
 import java.util.ArrayList;

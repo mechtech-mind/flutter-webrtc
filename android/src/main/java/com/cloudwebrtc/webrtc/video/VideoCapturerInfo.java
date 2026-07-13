@@ -1,6 +1,6 @@
 package com.cloudwebrtc.webrtc.video;
 
-import org.webrtc.VideoCapturer;
+import livekit.org.webrtc.VideoCapturer;
 
 public class VideoCapturerInfo {
     public VideoCapturer capturer;

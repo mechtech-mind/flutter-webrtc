@@ -1,6 +1,6 @@
 package com.cloudwebrtc.webrtc;
 
-import org.webrtc.MediaStreamTrack;
+import livekit.org.webrtc.MediaStreamTrack;
 
 public class LocalTrack {
     public LocalTrack(MediaStreamTrack track) {

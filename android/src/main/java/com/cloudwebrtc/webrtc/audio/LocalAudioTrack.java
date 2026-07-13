@@ -5,9 +5,9 @@ import android.os.SystemClock;
 
 import com.cloudwebrtc.webrtc.LocalTrack;
 
-import org.webrtc.AudioTrack;
-import org.webrtc.AudioTrackSink;
-import org.webrtc.audio.JavaAudioDeviceModule;
+import livekit.org.webrtc.AudioTrack;
+import livekit.org.webrtc.AudioTrackSink;
+import livekit.org.webrtc.audio.JavaAudioDeviceModule;
 
 import java.nio.ByteBuffer;
 import java.util.ArrayList;

@@ -24,9 +24,9 @@ import com.cloudwebrtc.webrtc.GetUserMediaImpl;
 import com.cloudwebrtc.webrtc.utils.AnyThreadResult;
 import com.cloudwebrtc.webrtc.video.VideoCapturerInfo;
 
-import org.webrtc.Camera1Capturer;
-import org.webrtc.Camera2Capturer;
-import org.webrtc.CameraEnumerationAndroid;
+import livekit.org.webrtc.Camera1Capturer;
+import livekit.org.webrtc.Camera2Capturer;
+import livekit.org.webrtc.CameraEnumerationAndroid;
 
 import java.lang.reflect.Field;
 import java.util.List;
